@@ -1,3 +1,32 @@
 body{
-    background-color: azure;
+    background-color: #ACB7FA;
+}
+
+.responsive{
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h1{
+    color: #2335AD;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
+
+h2{
+    background-color: #FAD764;
+    color: #2335AD;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+}
+
+p{
+    color: #2335AD;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 75;
 }
